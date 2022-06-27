@@ -1,0 +1,155 @@
+teste
+Projeto DOSVOX - NCE/UFRJ
+----------------------------------------------------
+capa
+[DESVIO] Perguntas, 5, 5, fim
+*
+oláDIGITE AQUI A APRESENTAÇÃO DO JOGO
+
+Aperte enter para continuar.
+----------------------------------------------------
+
+quem descobril o brasil?pergunta 1
+
+[CATEGORIA] perguntas
+*
+DIGITE AQUI SUA PERGUNTA (ATÉ 10 LINHAS POR SLIDE)
+quem descobril o brasil?
+
+
+[RESPOSTA]  DIGITE AQUI A RESPOSTA CORRETA
+pedro alvars cabral.
+
+[ACERTO] acerto_pergunta 1
+[ERRO] erro_pergunta 1
+
+---------------------------------------
+acerto_pergunta 1
+[DESVIO] Perguntas
+[PONTOS] 1
+*
+DIGITE AQUI OS PARABÉNS AO ALUNO
+
+Aperte enter para continuar.
+---------------------------------------
+erro_pergunta 1
+[DESVIO] Perguntas
+*
+DIGITE AQUI A INFORMAÇÃO SOBRE O ERRO COMETIDO
+
+Aperte enter para continuar.
+----------------------------------------------------
+pergunta 2
+[CATEGORIA] perguntas
+*
+DIGITE AQUI SUA PERGUNTA (ATÉ 10 LINHAS POR SLIDE)
+
+
+
+[RESPOSTA]  DIGITE AQUI A RESPOSTA CORRETA
+[ACERTO] acerto_pergunta 2
+[ERRO] erro_pergunta 2
+---------------------------------------
+acerto_pergunta 2
+[DESVIO] Perguntas
+[PONTOS] 1
+*
+DIGITE AQUI OS PARABÉNS AO ALUNO
+
+Aperte enter para continuar.
+---------------------------------------
+erro_pergunta 2
+[DESVIO] Perguntas
+*
+DIGITE AQUI A INFORMAÇÃO SOBRE O ERRO COMETIDO
+
+Aperte enter para continuar.
+----------------------------------------------------
+pergunta 3
+[CATEGORIA] perguntas
+*
+DIGITE AQUI SUA PERGUNTA (ATÉ 10 LINHAS POR SLIDE)
+
+
+
+[RESPOSTA]  DIGITE AQUI A RESPOSTA CORRETA
+[ACERTO] acerto_pergunta 3
+[ERRO] erro_pergunta 3
+---------------------------------------
+acerto_pergunta 3
+[DESVIO] Perguntas
+[PONTOS] 1
+*
+DIGITE AQUI OS PARABÉNS AO ALUNO
+
+Aperte enter para continuar.
+---------------------------------------
+erro_pergunta 3
+[DESVIO] Perguntas
+*
+DIGITE AQUI A INFORMAÇÃO SOBRE O ERRO COMETIDO
+
+Aperte enter para continuar.
+----------------------------------------------------
+pergunta 4
+[CATEGORIA] perguntas
+*
+DIGITE AQUI SUA PERGUNTA (ATÉ 10 LINHAS POR SLIDE)
+
+
+
+[RESPOSTA]  DIGITE AQUI A RESPOSTA CORRETA
+[ACERTO] acerto_pergunta 4
+[ERRO] erro_pergunta 4
+---------------------------------------
+acerto_pergunta 4
+[DESVIO] Perguntas
+[PONTOS] 1
+*
+DIGITE AQUI OS PARABÉNS AO ALUNO
+
+Aperte enter para continuar.
+---------------------------------------
+erro_pergunta 4
+[DESVIO] Perguntas
+*
+DIGITE AQUI A INFORMAÇÃO SOBRE O ERRO COMETIDO
+
+Aperte enter para continuar.
+----------------------------------------------------
+pergunta 5
+[CATEGORIA] perguntas
+*
+DIGITE AQUI SUA PERGUNTA (ATÉ 10 LINHAS POR SLIDE)
+
+
+
+[RESPOSTA]  DIGITE AQUI A RESPOSTA CORRETA
+[ACERTO] acerto_pergunta 5
+[ERRO] erro_pergunta 5
+---------------------------------------
+acerto_pergunta 5
+[DESVIO] Perguntas
+[PONTOS] 1
+*
+DIGITE AQUI OS PARABÉNS AO ALUNO
+
+Aperte enter para continuar.
+---------------------------------------
+erro_pergunta 5
+[DESVIO] Perguntas
+*
+DIGITE AQUI A INFORMAÇÃO SOBRE O ERRO COMETIDO
+
+Aperte enter para continuar.
+----------------------------------------------------
+fim
+*
+MUDE O TEXTO ABAIXO SE DESEJAR
+
+Muito bem!
+E assim termina nosso jogo!
+
+*
+Você alcançou $PONTOS pontos.
+Foi bom jogar com você! Volte sempre.
